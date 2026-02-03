@@ -1,0 +1,25 @@
+{
+  "manifest_version": 2,
+  "name": "scallop_crawl",
+  "version": "1.0",
+  "description": "扇贝爬虫",
+  "icons": {
+    "32": "img/logo.png"
+  },
+  "browser_action": {
+    "default_icon": "img/logo.png",
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "scripts": ["js/background.js"],
+    "persistent": false
+  },
+  "content_scripts":[
+    {
+      "js":["js/content_script.js"],
+      "matches": ["*://web.shanbay.com/*","*://www.ytaxx.com/*"],
+    "run_at": "document_idle"
+    }
+  ],
+  "permissions": ["storage", "notifications", "contextMenus","tabs","activeTab"]
+}
